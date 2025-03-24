@@ -1,2 +1,2 @@
 # SMTP_test
-Simple SMTP Test Tool
+Simple herramienta para realizar conexiones al puerto 25 para realizar pruebas de trafico SMTP
